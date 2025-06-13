@@ -69,7 +69,7 @@ export default function Footer() {
                 />
               </Link>
               <Link
-                href="#"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/5jrge11pJi1gLeHEcUVfRntawGH532YYtApurMT2mxyS"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group"
@@ -84,7 +84,7 @@ export default function Footer() {
                 />
               </Link>
               <Link
-                href="#"
+                href="https://dexscreener.com/solana/5jrge11pJi1gLeHEcUVfRntawGH532YYtApurMT2mxyS"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group"
